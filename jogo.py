@@ -1,9 +1,3 @@
-# ============================================================
-# TRABALHO DE ADS - JOGO DA VELHA
-# MÓDULO: MECÂNICA E REGRAS DO JOGO
-# RESPONSÁVEL: [Wenderson Victhor Sousa Bezerra]
-# ============================================================
-
 def criar_tabuleiro():
     return [" "] * 9
 
